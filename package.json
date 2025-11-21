@@ -2,6 +2,7 @@
 	"name": "vite-project",
 	"private": true,
 	"version": "0.0.0",
+  "homepage": "https://christopherbradley142.github.io/Github_React_Vite_Testing",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
